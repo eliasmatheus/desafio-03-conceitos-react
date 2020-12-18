@@ -37,3 +37,28 @@ div li button {
   margin: 0 15px;
   background: #ca4949;
 }
+
+/* form {
+  width: 300px;
+
+  border: 1px solid black;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+} */
+
+input {
+  width: 100px;
+  height: 36px;
+
+  border: 1px solid rgb(110, 110, 110);
+  /* border-radius: 5px; */
+  outline: none;
+  color: #5C8599;
+
+  margin-right: 5px;
+  padding: 0 10px;
+}
+
